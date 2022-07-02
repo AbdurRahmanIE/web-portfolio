@@ -19,7 +19,6 @@ h1{
     width: 100%;
 }
 .top-bannar{
-    border: 1px solid orange;
     height: 500px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
